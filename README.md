@@ -1,6 +1,6 @@
 # Application_Reservation
 ## 소상공인 전용 예약 애플리케이션
-***SQLiteDatabase + DatePicker + FABB + HTML***
+***SQLiteDatabase + DatePicker + FAB + HTML***
 
 
 <img src="7.png" width="80%">
